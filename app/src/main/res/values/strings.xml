@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">IntefaceAppNews</string>
+    <string name="msgmensagem">Menu Mensagem</string>
+    <string name="imgstar">Menu Estrela</string>
+    <string name="imgsom">Menu Volume</string>
+    <string name="imgcontent">Menu Conteúdo</string>
+    <string name="s01_e02">S01:E02</string>
+    <string name="house_of_cards">House of Cards</string>
 </resources>
